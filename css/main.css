@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.Active{
+    font-size:x-large;
+}
+
+li ,h1, h2{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+li{
+    padding-top: 1rem;
+}
+
+.navbar{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+} 
+
